@@ -32,6 +32,12 @@ git remote -v
 git push -u origin master
 ```
 
+## 6. 팀원에게 접근권한을 부여
+```bash
+깃허브 접속 >> settings >> collaborators
+>> Search by username, full name or email address
+```
+
 <br><br><br>
 
 # 팀장이 프로젝트 중간에 수행하는 작업
